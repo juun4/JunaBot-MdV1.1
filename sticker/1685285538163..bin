@@ -1,0 +1,5 @@
+{
+    "status": 403,
+    "message": "requests limit exceeded (15 req / day), please upgrade to premium plan",
+    "result": "empty"
+}
